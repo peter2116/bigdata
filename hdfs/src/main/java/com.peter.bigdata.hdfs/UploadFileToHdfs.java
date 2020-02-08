@@ -15,7 +15,7 @@ import java.net.URISyntaxException;
 public class UploadFileToHdfs {
 
 	public static void main(String[] args) throws IOException, URISyntaxException {
-//		uploadFile();
+		uploadFile();
 		uploadFiles();
 	}
 
